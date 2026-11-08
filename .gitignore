@@ -1,0 +1,15 @@
+/work/
+/outputs/
+/*.exe
+/*.pdb
+/*.dll
+/screens*/
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
+*.zip
+.env
+.env.*
+!.env.example
