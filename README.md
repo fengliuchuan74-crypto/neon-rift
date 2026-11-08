@@ -30,7 +30,7 @@
 
 ## 下载与运行
 
-1. 打开 [Releases](https://github.com/fengliuchuan74-crypto/neon-rift/releases/latest)，下载 `霓虹跃迁.zip`。
+1. 打开 [Releases](https://github.com/fengliuchuan74-crypto/neon-rift/releases/latest)，下载 `NeonRift.zip`（霓虹跃迁完整包）。
 2. 解压到本地文件夹，双击其中的 `霓虹跃迁.exe`。
 3. 在主菜单选择第一章开始游玩；游戏支持窗口及 F11 无边框全屏。
 
